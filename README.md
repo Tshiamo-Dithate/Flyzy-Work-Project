@@ -1,1 +1,1 @@
-A data checking task for Flyzy Machine Learning project
+A data checking and EDA task for Flyzy Machine Learning project
